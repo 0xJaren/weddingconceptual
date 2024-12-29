@@ -11,5 +11,8 @@
         "lint:css": "stylelint css",
         "lint:html": "htmlhint **/*.html",
         "dev:start": "http-server -p 8080"
+    },
+    "dependencies": {
+        "eslint-plugin-html": "^8.1.2"
     }
 }
